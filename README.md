@@ -5,7 +5,8 @@ Lab Cycle
 
 CSL 201 Data Structures Lab
 
-Day 1 1. Write a menu driven C program to implement polynomials using arrays and perform polynomial addition and multiplication.
+Day 1 \n
+1. Write a menu driven C program to implement polynomials using arrays and perform polynomial addition and multiplication.
 
 Day 2
 2. Write a menu driven C program to implement sparse matrices using arrays and perform the following operations

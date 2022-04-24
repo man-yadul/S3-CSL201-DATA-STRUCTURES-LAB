@@ -1,4 +1,4 @@
-# Rajagiri School of Engineering and Technology
+# Rajagiri School of Engineering & Technology, Kakkanad
 ## Department of Computer Science and Engineering
 
 ### Lab Cycle
